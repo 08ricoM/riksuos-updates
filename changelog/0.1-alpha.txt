@@ -1,0 +1,22 @@
+RiksuOS 0.1 Alpha
+
+Tila: suunnitteilla
+Julkaisupäivä: ei vielä päätetty
+Pohja: Ubuntu 24.04 LTS
+
+Tämä versio ei ole vielä valmis julkaisu.
+RiksuOS 0.1 Alpha on ensimmäinen suunniteltu testiversio.
+
+Suunniteltu sisältö:
+- Ubuntu 24.04 LTS -pohja
+- RiksuOS-versiotiedosto
+- RiksuOS Update Centerin ensimmäinen testituki
+- Oma taustakuva
+- Ensimmäinen RiksuOS-brändäys
+- Testaus virtuaalikoneessa
+
+Tunnetut puutteet:
+- ISO-tiedostoa ei ole vielä julkaistu
+- Oma APT-repository puuttuu
+- Automaattinen versiopäivitys puuttuu
+- Ulkoasu ei ole vielä valmis
