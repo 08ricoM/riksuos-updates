@@ -1,0 +1,19 @@
+{
+  "latest_version": "Ei julkaisua vielä",
+  "version_id": "0.0",
+  "release_name": "RiksuOS Development",
+  "release_date": "",
+  "base": "Ubuntu 24.04 LTS",
+  "download_url": "",
+  "requires_reinstall": false,
+  "status": "development",
+  "message": "RiksuOS 0.1 Alpha ei ole vielä julkaistu.",
+  "next_planned_version": "0.1 Alpha",
+  "changelog_url": "https://raw.githubusercontent.com/08ricoM/riksuos-updates/main/changelog/0.1-alpha.txt",
+  "update_script_url": "https://raw.githubusercontent.com/08ricoM/riksuos-updates/main/scripts/update.sh",
+  "changelog": [
+    "RiksuOS Update Centerin testirepo luotu",
+    "version.json toimii GitHubin kautta",
+    "Ensimmäinen RiksuOS 0.1 Alpha -julkaisu on suunnitteilla"
+  ]
+}
