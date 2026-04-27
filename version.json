@@ -1,0 +1,15 @@
+{
+  "latest_version": "0.1 Alpha",
+  "version_id": "0.1",
+  "release_name": "RiksuOS 0.1 Alpha",
+  "release_date": "2026-04-27",
+  "base": "Ubuntu 24.04 LTS",
+  "download_url": "",
+  "requires_reinstall": true,
+  "changelog": [
+    "Ensimmäinen RiksuOS Alpha -testiversio",
+    "Lisätty RiksuOS Update Center -tuki",
+    "Lisätty RiksuOS-versiotieto",
+    "Ubuntu LTS -pohja"
+  ]
+}
